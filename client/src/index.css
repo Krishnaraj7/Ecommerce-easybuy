@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: o;
+  box-sizing: border-box;
+  /* font-family: "Assistant", sans-serif; */
+  font-family: "Poppins", sans-serif;
+}
+.navbar{
+  box-shadow: 0 8px 6px -6px gray;
+  --webkit-box-shadow: 0 8px 6px -6px gray;
+  background-color: #1e1c1c !important;
+  color: white ;
+ 
+}
+.navline:hover{
+  border-bottom: 2px solid rgb(97, 97, 87);
+}
+
+.heading{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 2px;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+/* .product-card:hover{
+  transform:scale(1.1)
+  
+} */
+/* #1d6d60 */
+.green-clr-bg{
+  background-color:  #203755;
+}
+.green-clr-bg:hover{
+  background-color: #0a0b0b;
+}
+.green-clr-text{
+  color: #1d6d60;
+}
